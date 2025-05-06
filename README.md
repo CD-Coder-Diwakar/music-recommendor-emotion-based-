@@ -23,41 +23,6 @@ This Streamlit web app detects your emotion in real-time using your webcam and r
 
 ---
 
-
-## ⚙️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/emotion-music-recommender.git
-cd emotion-music-recommender
-```
-
-### 2. Create Virtual Environment (Optional but Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Running the App
-
-```bash
-streamlit run music.py
-```
-
-> Make sure your webcam is working and accessible.
-
----
-
 ## 📝 Usage
 
 1. Enter your **preferred language** and **singer** name.
