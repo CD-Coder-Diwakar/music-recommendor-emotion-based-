@@ -3,9 +3,7 @@
 
 This Streamlit web app detects your emotion in real-time using your webcam and recommends songs based on your mood, selected language, and favorite singer. It uses deep learning, MediaPipe for facial/hand landmark detection, and YouTube for dynamic music recommendations.
 
----
 
-## 📸 Demo
 
 > Emotion is captured from your face and hand landmarks in real-time. Once detected, a search query is generated like:
 > ```
@@ -25,18 +23,6 @@ This Streamlit web app detects your emotion in real-time using your webcam and r
 
 ---
 
-## 📁 Project Structure
-
-```
-.
-├── music.py              # Main application script
-├── model.h5              # Trained Keras model for emotion detection
-├── labels.npy            # Emotion label mappings
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-```
-
----
 
 ## ⚙️ Installation
 
@@ -105,15 +91,8 @@ See [requirements.txt](./requirements.txt)
 
 ## 🙋‍♀️ Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Diwakar Mahotra](https://github.com/CD-Coder-Diwakar)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 💡 Future Improvements
 
